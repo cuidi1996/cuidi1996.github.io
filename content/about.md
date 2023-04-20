@@ -14,9 +14,9 @@ author = "lee.so"
 感兴趣的领域：女性主义、非虚构、深度报道、性别与技术、数据新闻
 
 
-# 书影音
+## 书影音
 
-## 一些喜欢的剧 & 电影
+### 一些喜欢的剧 & 电影
 
 《the good fight》
 
@@ -35,7 +35,7 @@ author = "lee.so"
 《神秘博士系列》（最爱小十！）
 
 
-## 一些喜欢的书
+### 一些喜欢的书
 
 《我要活下去——韩国MERS风暴里的人们》
 
@@ -46,7 +46,7 @@ author = "lee.so"
 《江城》
 
 
-# 一些喜欢的 role model
+## 一些喜欢的 role model
 
 Ruth Bader Ginsburg
 
@@ -70,9 +70,9 @@ Haibara Ai
 
 
 
-# 我的作品集
+## 我的作品集
 
-## 腾讯谷雨
+### 腾讯谷雨
 
 [零工时代，我们还能找到工作的意义吗？ | 谷雨](https://mp.weixin.qq.com/s/Ncw-poaF-ZQcVl42xhz3bQ)
 

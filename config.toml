@@ -1,10 +1,10 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://cuidi1996.github.io/"
 # title = "Hugo Themes"
-author = "Steve Francia"
+author = "Di Cui"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "cn"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -17,13 +17,12 @@ title = "Paper"
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  github = 'cuidi1996'
+  
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  avatar = 'cuidi9608@gmail.com'
+  name = 'Di'
+  bio = '新传读研中'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)

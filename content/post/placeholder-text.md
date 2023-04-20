@@ -4,8 +4,8 @@ title = "Programmed Inequality 书评"
 date = "2020-12-15"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
-    "markdown",
-    "text",
+    "book review",
+    "reading",
 ]
 +++
 

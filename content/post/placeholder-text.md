@@ -1,7 +1,7 @@
 +++
-author = "lee.so"
-title = "Placeholder Text"
-date = "2019-03-09"
+author = "Di Cui"
+title = "Programmed Inequality 书评"
+date = "2020-12-15"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "markdown",
@@ -9,34 +9,55 @@ tags = [
 ]
 +++
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Mar Hicks一位历史学家，主要研究领域聚焦在技术，性别和现代欧洲。
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+《programmed inequality》这本书研究了性别如何改变英国对于技术进步和全球“计算机革命”的认识。20世纪40年代，计算机操作被视为是女性的工作，到了60年代，随着计算机的突出地位和影响力，男性取代了成千上万的女性工作者。与之同时进行的是，1944年，英国在电子计算领域处于世界领先地位。到1974年，英国计算机产业几乎败落，作者认为，英国的一系列电子化政策阻碍了其向信息时代的过渡。
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+这本书的调查始于2017年，论述了为何随着电子计算机的成熟，女性比例下降的原因，揭示女性所面临的的不平等待遇，它提出性别关系如何塑造技术，如何影响国家的工作，并最终影响国家的命运。
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+一开始让我感到震撼的是这本书的视角，它以女性、技术的角度去切入历史，为我们勾勒出20世纪40年代——20世纪70年代英国，性别在塑造工业和定义经济现代化本身方面所起到的基本、隐藏的作用。
 
-# Vagus elidunt
+在自己看到的历史，形成的历史记忆中，从工业革命到信息革命的历史发展似乎是一个自然而然的过程，说起电脑的发明到普及，再到信息革命的浪潮，脑海里所触及的知识可能仅仅限于1936年艾伦·图灵发明图灵机、IBM乔布斯在自家仓库里和好朋友发明苹果电脑、IBM公司崛起……历史似乎被某几个人的灵光一现推着向前走了几步。而在漫长的发展长河中，其中无数优异的女性工作者却被我们忽视掉了。
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+直到回过头去看英国1940-1970年代的计算机化的历史，才会突然了解到女性如何被这个行业排除在外，当下计算机革命的历史又是如何塑造起来的。在当时来看，这似乎是一场计算机如何从一个女性领域转移到男性领域，从历史上来说，这也是一段历史话语建构的过程。而历史之于我们，并非是盖棺定论的事实，而是无数可能性中的一种，找到一条通往历史的路径，也能帮助我们更好的理解现在和未来。
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+正如罗新老师所说，历史本质上是一种论辩，是一种不同意，一种对已有论述的质疑、纠正、提升或抗争，是在过去的混沌中重新发现或发明关联、模式、意义与秩序。如果沉浸在已有论述中不加怀疑、不加批判，那就成了旧历史的囚徒，就失去了选择的能力。没有选择能力，就不会有选择不同方式观察自己的能力，也就不可能生产出新的历史知识。史料自己不会说话，史料不是透明的、无辜的，它们是在特定情形下、由特定作者因特定目的为特定读者写下的。批判和怀疑的品德帮助我们质疑陈说，提出论辩。
 
-## Mane refeci capiebant unda mulcebat
+与此同时技术从来不是中立的。它往往无意中间决定了我们的社会、政治和经济选择的模式。而社会歧视与偏见也在潜移默化地影响着历史未来的走向。
 
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+在战争时期时期，女性从事着计算机方面的诸多工作。比如在WRNS中，（妇女分支英国的皇家海军）女性成员职务有：厨师，文员，无线电报员，雷达绘图员，武器分析员，测距员，电工和航空机械师。
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
+但在战争的稳定时期之后，情况发生了改变。许多职位需要让位于男性，战后女性的失业率增高，女性又被推到家庭的角色之中。
 
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, _oculos nomen_ non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
+一方面是社会偏见的影响，女性在工作之外，在传统的观念中还需要结婚、生育，照顾家庭。工作在女性面前并非是一个必须选项，她被默认随时可能离开，而男性支撑起养家的工作。这样的社会期望使得女性陷入困境。
+
+另一方面，技术与权力结合（强化一些人的权力，剥夺另一些人的权力）成为现代化的重要途径。随着电子计算的潜力不断开发，这个领域被不断男性化。
+
+当技术与当权者保持一致，更大的社会技术系统自上而下地进行重新设计，以此来适应和扩展现有的特权模式，权力和男性支配的齐头并进。
+
+但是，在这个领域不断男性化的过程中，技术本身的重要性在不断下降，而技术官僚控制却在不断增强。计算机化将特定人群塑造成技术下层阶级，以支持社会技术官僚体系。技术官僚控制与其说是技术技能，不如说是权力。
+
+作者指出，英国公共部门的计算机化的进程依赖技术官僚控制下明确的女性化的劳动力。技术官僚异质性依赖父权制和和核心家庭的结构，为英国的现代化，信息化经济培养理想的员工。
+
+计算机行业的叙事话语也发生了改变，计算机被认为是男性科学家，设计师，工程师的重要工具，而不是女性所负责的日常工作的领域。以往的角色分工强化了人们的偏见，同时，大量广告、求职信息等，也限制着男性与女性的选择，性别刻板印象也不断在加强。
+
+技术的发展历史与权力、性别、男性主导话语糅合在一起，这些共同塑造了当今技术发展的现状。
+
+回到日常生活中里，我们的教育，似乎一直有性别刻板印象的灌输。小学初中，大家会觉得男生理科好是因为“天赋”，他们会得到更多的鼓励与期待，女生理科好会被认为是“好学、死磕”。面对着选择，最明显的是在高二分班，男性和女性分别称为“理科”和“文科”的代名词，如果不小心有男生选文科，就会被看做是“特殊的存在”。而选择文科大多数情况不会被大家认为是“理所当然”，而是会被认为“理科不行”，因为文科在许多人眼中就是“死记硬背”嘛，这个怎么能学不好呢。
+
+而日后，女生往往不会去选择计算机相关的行业，而男生则会又理所当然地进入这一领域，从小到大的滚雪球的偏见最终影响着未来的职业分工。这样不断地暗示，到最后往往成为了自我实现的寓言。也塑造着我们当代劳动市场的现状。
+
+我们被偏见加持，也被反过来“无意识”地塑造着偏见。
+
+回望历史的时候，才发现这是一个“祛魅”的过程，去寻找前因后果的过程。我突然意识到的是“不是因为是女生，就计算机能力不行”，而是“因为是女生，所以计算机能力不行”这一概念是如何被塑造起来。它在历史长河里如何被翻转，如何被塑造，如何与权力结合，被置于男性领域之下。一件事情，一个人，一项技能，它从来不是因为性别来界定，当一个人什么还没做，就因为性别被划入了“失败”的领地，无疑是荒谬的。
+
+在文章的最后作者认为仅仅是通过教授女孩子们计算机技能其实不能根本上解决问题。社会结构和制度层面不改变，同样也只是治标不治本。
+
+作者提到了一种担忧：内容管理者他们决定哪一些信息对于网络是安全的，从而塑造我们对于文化的理解，并保护大公司的利益。从这一个角度想，内容管理者们的性别意识、文化素养、以及许多层面的能力，也塑造着我们的网络生态。但内容管理者他们的职业晋升和发展也受到社会种种偏见的影响。
+
+目前，网络上的删帖，封号等许多行为正不断地压缩着我们的公共的讨论空间。偏见歧视和行为本身是一个环环相扣，不断循环的过程。如果这一部分被看见更多，许多事情就并非是理所当然的了。
+
+
 
 {{< css.inline >}}
 

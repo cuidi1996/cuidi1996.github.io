@@ -1,7 +1,7 @@
 +++
 author = "Di Cui"
 title = "Programmed Inequality 书评"
-date = "2020-12-15"
+date = "2020-12-31"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "book review",

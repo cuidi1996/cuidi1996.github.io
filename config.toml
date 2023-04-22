@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "hugo-paper"
-title = "Paper"
+title = "Di Cui"
 
 [params]
   color = 'linen'

@@ -58,14 +58,7 @@ Jodie Comer
 
 Phoebe Waller-Bridge
 
-Agnès Varda
-
 Patti Smith
-
-Diane Lockhart（最近追TGF 沉迷 Diane）
-
-Haibara Ai
-
 
 
 

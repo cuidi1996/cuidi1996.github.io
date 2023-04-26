@@ -13,7 +13,7 @@ author = "lee.so"
 
 感兴趣的领域：女性主义、非虚构、深度报道、性别与技术、数据新闻
 
-![摄于2021年6月](/content/images/崔頔.jpg =200 "崔頔")
+![摄于2021年6月](/content/images/崔頔.jpg"崔頔" width="300")
 
 
 

@@ -24,11 +24,11 @@ During the war, conscription was mandatory for women between the ages of 18 and 
 
 An advertisement in the newspaper recruiting girls for training in communications, decoding, Morse code, tracking, signaling, interception, and mapping inspired her to become a Code Girl, so she filled out the form and then left home for training as she took it as a great adventure rather tan a sacrifice.
 
->“Ava had self-consciously assured them she was definitely leaving; there was no choice: female conscription was obligatory for women between the ages of eighteen and thirty. Women were being deployed all over the country, and most of Ava’s friends had already gone ‒ some to munitions factories in Yorkshire and Wales; others had signed up to work as land girls in Scotland”
+><font color=grey>“Ava had self-consciously assured them she was definitely leaving; there was no choice: female conscription was obligatory for women between the ages of eighteen and thirty. Women were being deployed all over the country, and most of Ava’s friends had already gone ‒ some to munitions factories in Yorkshire and Wales; others had signed up to work as land girls in Scotland”</font>
 
->“Women are doing jobs nobody ever expected them to be doing all over England right now – why shouldn’t I?”
+><font color=grey>“Women are doing jobs nobody ever expected them to be doing all over England right now – why shouldn’t I?”</font>
 
->“it felt more like a great adventure rather than a painful sacrifice”
+><font color=grey>“it felt more like a great adventure rather than a painful sacrifice”</font>
 
 {{< css.inline >}}
 

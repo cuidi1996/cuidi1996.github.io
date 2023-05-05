@@ -15,7 +15,7 @@ author = "lee.so"
 
 
 
-![摄于2021年6月，广州](https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg 500*750)
+![摄于2021年6月，广州](https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg =500*750)
 
 
 

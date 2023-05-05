@@ -14,9 +14,9 @@ author = "lee.so"
 感兴趣的领域：女性主义、非虚构、深度报道、性别与技术、数据新闻
 
 
-<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg" style="width:200px" />
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg" style="width:500px" />
 
-![摄于2021年6月，广州](https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg){:height="100px" width="400px"}
+
 
 
 

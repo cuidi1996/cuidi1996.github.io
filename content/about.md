@@ -20,10 +20,6 @@ author = "lee.so"
 
 
 
-![cuidi](/Users/cuidi/cuidi1996.github.io/content/images/崔頔.jpg)
-
-
-
 
 ## 书影音
 

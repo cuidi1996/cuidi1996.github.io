@@ -16,7 +16,7 @@ author = "lee.so"
 
 <img src="/content/images/崔頔.jpg" width="50%">
 
-![图片说明](https://github.com/cuidi1996/cuidi1996.github.io/raw/main/刚你新建的图片文件夹名称/content/images/崔頔.jpg)
+![图片说明](https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg)
 
 
 

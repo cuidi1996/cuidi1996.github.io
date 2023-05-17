@@ -7,70 +7,15 @@ author = "lee.so"
 +++
 
 
-崔頔，坚定的女性主义者，业余人类观察家，不成熟撰稿人、天秤座、INFJ、名柯死忠粉、水平一般的同人文写手、幼儿园水平画手
+崔頔，坚定的女性主义者，业余人类观察家，不成熟撰稿人、天秤座、INFJ、名柯死忠粉、水平一般的同人文写手、幼儿园水平画手。
 
-本科毕业于江苏一所普通高校，研究生在暨大读新闻，有幸拿到了范敬宜新闻奖。明明很社恐却一直待在媒体，人生毫无规划，一直在严肃媒体实习，毕业之后去了新媒体工作，现在在自由撰稿，即将去美国读书。
+本科毕业于江苏一所普通高校，研究生在暨南大学新闻传播学院读新闻，遇到了超级好的导师，也有幸拿到[范敬宜新闻奖](https://qxcm.tsjc.tsinghua.edu.cn/pc/folder124/folder138/2021-03-04/907XQBqvlblC0QoC.html)。一直在严肃媒体实习，毕业之后去了新媒体工作。现在在自由撰稿，即将去美国读书。
 
 感兴趣的领域：女性主义、非虚构、深度报道、性别与技术、数据新闻
 
-<<<<<<< HEAD
-=======
-<img src="/content/images/崔頔.jpeg" width="50%">
 
-![图片说明](https://github.com/cuidi1996/cuidi1996.github.io/raw/main/刚你新建的图片文件夹名称/content/images/崔頔.jpeg)
->>>>>>> 824f71e94e4a59d40b63ef96f516d874170d466e
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/崔頔.jpg" style="width:500px" />
 
-
-![cuidi](/Users/cuidi/cuidi1996.github.io/content/images/崔頔.jpeg)
-
-
-
-
-## 书影音
-
-### 一些喜欢的剧 & 电影
-
-《the good fight》
-
-《killing eve》
-
-《nomadland》
-
-《the hours》
-
-《人间失格》（韩剧）
-
-《贝克街的亡灵》（名侦探柯南剧场版）
-
-《我的大叔》（韩剧）
-
-《神秘博士系列》（最爱小十！）
-
-
-### 一些喜欢的书
-
-《我要活下去——韩国MERS风暴里的人们》
-
-《那不勒斯四部曲》
-
-《扫地出门》
-
-《江城》
-
-
-### 一些喜欢的 role model
-
-Ruth Bader Ginsburg
-
-Elena Ferrante
-
-Sandra Oh
-
-Jodie Comer
-
-Phoebe Waller-Bridge
-
-Patti Smith
 
 
 

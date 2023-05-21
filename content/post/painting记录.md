@@ -146,7 +146,7 @@ artstation
 - 调单个颜色 --  确定色相、明度、饱和度
 
 
-<p style="background-color:lightgrey" ><font color=＃B0C4DE	> 
+<p style="background-color:lightgrey" ><font color=＃808080	> 
 大概每天画了4个小时（我也是很闲），发现我色感很好！以前几乎没接触过颜色，但很快调两次都可以调对。最头疼的是线条组合，真的是毫无规律可言。</font></br></p>
 
 

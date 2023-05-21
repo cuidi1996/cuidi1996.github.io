@@ -116,6 +116,9 @@ HSB</br>
 [posemanicacs](https://www.posemaniacs.com/zh-Hans)
 60s 速写练习，可多角度
 
+[bodiesinmotion](https://www.bodiesinmotion.photo/)
+人体动态训练
+
 [line-of-action](https://line-of-action.com/zh)
 速写练习+论坛
 
@@ -127,6 +130,17 @@ HSB</br>
 
 artstation
 找图、临摹
+
+[flim](https://flim.ai/?gad=1&gclid=CjwKCAjwgqejBhBAEiwAuWHioNsYLzwyPQanBILkV6aSLHCrPyNsvXtbEXObCl9E1S5tvlmujAxSzBoC8XQQAvD_BwE)
+电影图参考
+
+
+[film-grab](https://film-grab.com/)
+电影图参考
+
+[screenmusings](https://screenmusings.org/)
+电影图参考
+
 
 
 

@@ -19,7 +19,7 @@ tags = [
 
 代码
 
-   ````
+````
   import json
   from pyecharts.charts import Map
   from pyecharts.options import *
@@ -60,14 +60,13 @@ tags = [
 
   map.render("疫情地图.html")
 
+````
 
-
-    ````
 
 效果：[!img]
 
 实现网址： http://localhost:63342/pythonProject/%E7%96%AB%E6%83%85%E5%9C%B0%E5%9B%BE.html?_ijt=s2cmuimuvt4oc0hh7s4rdfsp0i&_ij_reload=RELOAD_ON_SAVE
-- 
+
 
 
 {{< css.inline >}}

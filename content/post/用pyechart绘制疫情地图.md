@@ -67,7 +67,7 @@ tags = [
 
 效果：[!img](content/images/2020-12-08疫情地图.jpg)
 
-<img src="https://github.com/cuidi1996/cuidi1996.github.io/blob/d54f187b018b18d35e15321a12817e032ecc9490/content/images/2020-12-08疫情地图.jpg" style="width:500px" />
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/2020-12-08疫情地图.jpg" style="width:500px" />
 
 
 

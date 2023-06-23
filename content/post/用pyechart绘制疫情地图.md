@@ -69,7 +69,6 @@ tags = [
 
 <img src="https://github.com/cuidi1996/cuidi1996.github.io/blob/d54f187b018b18d35e15321a12817e032ecc9490/content/images/2020-12-08%E7%96%AB%E6%83%85%E5%9C%B0%E5%9B%BE.jpeg" style="width:500px" />
 
-实现网址： http://localhost:63342/pythonProject/%E7%96%AB%E6%83%85%E5%9C%B0%E5%9B%BE.html?_ijt=s2cmuimuvt4oc0hh7s4rdfsp0i&_ij_reload=RELOAD_ON_SAVE
 
 
 

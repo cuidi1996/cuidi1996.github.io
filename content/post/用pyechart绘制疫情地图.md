@@ -9,7 +9,8 @@ tags = [
 ]
 +++
 
-## 教材 & 课程
+真的是疫情过了才学会……
+
 
 [pyechart](https://05x-docs.pyecharts.org/#/zh-cn/)
 
@@ -65,7 +66,7 @@ tags = [
 ````
 
 
-效果：[!img](content/images/2020-12-08疫情地图.jpg)
+效果：
 
 <img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/2020-12-08疫情地图.jpg" style="width:500px" />
 

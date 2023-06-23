@@ -17,14 +17,14 @@ tags = [
 
 ### 5.28--6.17  
 
-[咸鱼中下游色彩派对2021](https://www.bilibili.com/video/BV1Z34y157J3/?spm_id_from=333.337.search-card.all.click)  
+- [咸鱼中下游色彩派对2021](https://www.bilibili.com/video/BV1Z34y157J3/?spm_id_from=333.337.search-card.all.click)  
 
-[作业](https://mp.weixin.qq.com/s/z_JdC6D7TP8QNGai90zmMw)
+- [作业](https://mp.weixin.qq.com/s/z_JdC6D7TP8QNGai90zmMw)
 
 
 ### 6.19--7.10  
 
-[咸鱼中下游色彩派对2022](https://www.bilibili.com/video/BV1Qc411G7fH/?spm_id_from=333.337.search-card.all.click)
+- [咸鱼中下游色彩派对2022](https://www.bilibili.com/video/BV1Qc411G7fH/?spm_id_from=333.337.search-card.all.click)
 
 
 

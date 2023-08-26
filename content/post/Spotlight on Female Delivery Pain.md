@@ -29,6 +29,8 @@ Can women avoid such pain?
 
 After the Yulin maternal jumping incident, the "Epidural delivery" topic quickly emerged.
 
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在中国.jpg" style="width:500px" />
+
 
 ## Additional burden
 
@@ -63,6 +65,8 @@ Nearly a year after the pilot project, Dr. Nie, on the front line of clinical wo
 
 In response to the rumor that "epidural delivery affects children's intelligence," Dr. Nie said that the local anesthesia technology is used for labor analgesia, and the amount of medicine entering the spinal canal is only a few milligrams and micrograms. The anesthesia is in the area below the mother's navel, not directly through the mother's veins. After the drug is absorbed into the mother's circulation, the amount absorbed through the placenta is minimal and has no adverse effect on the fetus.
 
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/麻醉师.jpg" style="width:500px" />
+
 But, anesthesia is a big issue when promoting epidural delivery.
 
 At present, there are only 90,000 anesthesiologists in China. According to the ratio of 2.4 anesthesiologists per 10,000 people in Europe and the United States, the shortage is as high as 300,000-500,000 in China. Under the premise that medical resources are insufficient and anesthesiologists are already overloaded, general hospitals and medical staff lack the motivation to promote this service.
@@ -81,6 +85,8 @@ But the actual decision is still in the hands of the newborn's family.
 ## Mothers are great even when they don't suffer pain.
 
 "The shortage of anesthesiologists, the operation of epidural delivery, these problems are all 'solvable' problems." Dr. Nie said, "But the women themselves do not want to give birth painlessly, and there is nothing we can do about it."
+
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在中国的历史.jpg" style="width:500px" />
 
 What are the actual thoughts of the mothers-to-be, anyway?
 
@@ -119,6 +125,8 @@ Five years later, James Young Simpson, the world's first person in obstetric 
 anesthesia, predicted, "It is futile for the medical community to oppose the use of labor analgesia, and labor analgesia will happen sooner or later." But this "sooner rather than later" was 100 years too late.
 
 Even in the United States, maternal mortality remained high throughout the 19th and early 20th centuries. During World War I, more American women died in childbirth than American men killed in battle.
+
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在美国的历史.jpg" style="width:500px" />
 
 Zhang Meng recalled an article she had read before discussing why epidural delivery had not been implemented in China, and the final answer was, "Because women do not decide it." Speaking here, Zhang Meng got a little excited and raised her voice a bit.
 

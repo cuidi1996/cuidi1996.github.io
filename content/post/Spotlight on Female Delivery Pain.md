@@ -12,9 +12,9 @@ tags = [
 ## How painful it is to be a woman ###
  
 She leaped from the building with the child in her womb.
- 
+
 Puerpera Ma Yushang in Yulin did not survive 11 hours of childbirth pain. She brought the most extreme pain human beings need to bear into the public eye——birth pains.
- 
+
 The pain of childbirth is often the first step for many women to become moms. Lu Chenchen is an athlete who didn't think about having a normal birth when she had her baby. Her mother, who gave birth to her by cesarean, shared the same advice with her daughter, who was about to give birth. "It is painful the same anyway, and when the time comes, if you can't deliver by normal labor, you still have to have a cesarean." After giving birth, the sharp pain haunted Lu Chenchen; she could not hold the phone and was not in the mood to post on social media to celebrate the occasion. After leaving the delivery room, Lu Chenchen could not hold back her tears.
 
 

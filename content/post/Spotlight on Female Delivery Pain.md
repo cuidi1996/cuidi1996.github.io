@@ -29,7 +29,7 @@ Can women avoid such pain?
 
 After the Yulin maternal jumping incident, the "Epidural delivery" topic quickly emerged.
 
-<video src="https://drive.google.com/file/d/1zY2jVzgUiKwePSdwUJbh70GGw_6IbGd1/view?usp=drive_link"></video>
+<video src="https://drive.google.com/file/d/1zY2jVzgUiKwePSdwUJbh70GGw_6IbGd1/view?usp=drive_link" controls></video>
 
 Click the link above to experience women's pain in childbirth through an audio form.
 

@@ -8,8 +8,8 @@ tags = [
 ]
 +++
 
-### Spotlight on Female Delivery Pain: ###
-## How painful it is to be a woman ###
+## Spotlight on Female Delivery Pain: 
+## How painful it is to be a woman 
 
 She leaped from the building with the child in her womb.
 

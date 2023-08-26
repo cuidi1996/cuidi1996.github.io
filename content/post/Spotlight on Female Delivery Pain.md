@@ -1,7 +1,7 @@
 +++
 author = "Di Cui"
-title = "《江村经济》书评"
-date = "2020-12-15"
+title = "Spotlight on Female Delivery Pain:How painful it is to be a woman"
+date = "2020-02-02"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "project",

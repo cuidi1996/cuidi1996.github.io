@@ -1,7 +1,7 @@
 +++
 author = "Di Cui"
-title = "Spotlight on Female Delivery Pain:How painful it is to be a woman"
-date = "2020-02-02"
+title = "Spotlight on Female Delivery Pain"
+date = "2020-02-03"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
     "project",

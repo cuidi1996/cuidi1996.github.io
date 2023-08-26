@@ -29,7 +29,9 @@ Can women avoid such pain?
 
 After the Yulin maternal jumping incident, the "Epidural delivery" topic quickly emerged.
 
-<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在中国.jpg" style="width:500px" />
+<video src="https://drive.google.com/file/d/1zY2jVzgUiKwePSdwUJbh70GGw_6IbGd1/view?usp=drive_link"></video>
+
+Click the link above to experience women's pain in childbirth through an audio form.
 
 
 ## Additional burden
@@ -43,6 +45,8 @@ The popularity of epidural delivery in China is more "heartbreaking" than physic
 In 2004, out of an average of 20 million births annually in China, only about 10,000 had cumulative access to pain-free childbirth. The number was less than 1 %. This rate is 85% in the United States and 90% in the United Kingdom.
 
 At the same time, epidural delivery is excluded from the separate charge items audited by the price department. Hospitals can only charge for the anesthesia drugs and equipment used to implement the epidural delivery at a price. In contrast, medical services and manual labor cannot be charged reasonably and legally.
+
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在中国.jpg" style="width:800px" />
 
 Currently, there is no uniform pricing for epidural delivery in China. According to some public hospitals' pricing, epidural delivery costs about RMB 1,500-2,500, depending on the delivery time. Only a few regions have included epidural delivery in their medical insurance. In Guangzhou, more than 2,000 yuan for epidural delivery can only be reimbursed as 700-800 yuan. In Sanya Maternal and Child Health Hospital, epidural delivery costs about 3,800 yuan, of which more than 1,600 yuan for anesthesia is not reimbursed by medical insurance. The rest is then returned according to the terms of medical insurance.
 
@@ -65,7 +69,7 @@ Nearly a year after the pilot project, Dr. Nie, on the front line of clinical wo
 
 In response to the rumor that "epidural delivery affects children's intelligence," Dr. Nie said that the local anesthesia technology is used for labor analgesia, and the amount of medicine entering the spinal canal is only a few milligrams and micrograms. The anesthesia is in the area below the mother's navel, not directly through the mother's veins. After the drug is absorbed into the mother's circulation, the amount absorbed through the placenta is minimal and has no adverse effect on the fetus.
 
-<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/麻醉师.jpg" style="width:500px" />
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/麻醉师.jpg" style="width:800px" />
 
 But, anesthesia is a big issue when promoting epidural delivery.
 
@@ -86,7 +90,7 @@ But the actual decision is still in the hands of the newborn's family.
 
 "The shortage of anesthesiologists, the operation of epidural delivery, these problems are all 'solvable' problems." Dr. Nie said, "But the women themselves do not want to give birth painlessly, and there is nothing we can do about it."
 
-<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在中国的历史.jpg" style="width:500px" />
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在中国的历史.jpg" style="width:800px" />
 
 What are the actual thoughts of the mothers-to-be, anyway?
 
@@ -126,7 +130,7 @@ anesthesia, predicted, "It is futile for the medical community to oppose the use
 
 Even in the United States, maternal mortality remained high throughout the 19th and early 20th centuries. During World War I, more American women died in childbirth than American men killed in battle.
 
-<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在美国的历史.jpg" style="width:500px" />
+<img src="https://github.com/cuidi1996/cuidi1996.github.io/raw/main/content/images/无痛分娩在美国的历史.jpg" style="width:800px" />
 
 Zhang Meng recalled an article she had read before discussing why epidural delivery had not been implemented in China, and the final answer was, "Because women do not decide it." Speaking here, Zhang Meng got a little excited and raised her voice a bit.
 
@@ -147,24 +151,20 @@ After 10 minutes, the pain began to decrease.
 This is the beginning of painlessness and can be the beginning of delivery.
 
 
+------------------------------------------------------------------------------------------------
 
+The project also contains:
 
-The project also contains（Click the link to get it）:
-
-Audio of women's pain in childbirth：
-https://drive.google.com/file/d/1zY2jVzgUiKwePSdwUJbh70GGw_6IbGd1/view?usp=share_link
-
-Causes of Dysmenorrhea for Women Explanation Video: 
+**Causes of Dysmenorrhea for Women Explanation Video**: 
 https://mp.weixin.qq.com/s/XtBZc8CQsDoS3f8_1uNgIg
 
 
-This article was first published on Jizhe（The student platform of the School of Journalism and Communication of Jinan University）
+**This article was first published on** Jizhe（The student platform of the School of Journalism and Communication of Jinan University）
 
-Original article link: https://mp.weixin.qq.com/s/ZkV_rCH5A-c4gNepU7i96g
+**Original article link**: https://mp.weixin.qq.com/s/ZkV_rCH5A-c4gNepU7i96g
 
 
-
-Produced by：Di Cui，Yanyun Xu，Yubing Xia，Yang Yu
+**Produced by**：Di Cui，Yanyun Xu，Yubing Xia，Yang Yu
 
 
 {{< css.inline >}}
